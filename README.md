@@ -1,3 +1,3 @@
 Je suis Astrid WINKLER.
-Ingénieure Élécronique numérique.
+Ingénieure Électronique numérique.
 Domaine de compétences = FPGA, VHDL.
